@@ -106,7 +106,7 @@ artifacts/validation_design_demo_v2_n3/cv_benchmark_results.csv
 Sentinelle includes a local web interface for interactive validation diagnostics. The screenshot below shows the dashboard after loading the built-in sample dataset.
 
 <p align="center">
-  <img src="assets/web_dashboard.png" alt="Sentinelle local web dashboard" width="90%">
+  <img src="assets/web_screenshot.png" alt="Sentinelle local web dashboard" width="90%">
 </p>
 
 For the full workflow, including validation guidance, CV strategy comparison, report preview, and artifact downloads, see the demo video above.
