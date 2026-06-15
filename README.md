@@ -1,7 +1,7 @@
 # Sentinelle Validation Agent
 
 <p align="center">
-  <img src="assets/C_logo.png" alt="Sentinelle Validation System logo" width="220">
+  <img src="assets/C_logo.png" alt="Sentinelle Validation System logo" width="300">
 </p>
 
 **Leakage-safe cross-validation design for tabular data.**
