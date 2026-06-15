@@ -24,9 +24,11 @@ Use it when you want a quick, transparent answer to:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Ggc8ZP8gDks">
-    <img src="https://img.youtube.com/vi/Ggc8ZP8gDks/maxresdefault.jpg" 
-         width="80%" 
-         alt="Sentinelle Demo Video">
+    <img 
+      src="https://img.youtube.com/vi/Ggc8ZP8gDks/maxresdefault.jpg"
+      width="90%"
+      style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+    />
   </a>
 </p>
 
