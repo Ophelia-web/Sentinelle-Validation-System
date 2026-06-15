@@ -103,11 +103,7 @@ artifacts/validation_design_demo_v2_n3/cv_benchmark_results.csv
 
 ## Local Web Interface
 
-Sentinelle includes a local web interface for interactive validation diagnostics.
-
-## 🖥️ Web Interface
-
-Below is the Sentinelle validation dashboard in action:
+Sentinelle includes a local web interface for interactive validation diagnostics. Below is the Sentinelle validation dashboard in action:
 
 ![Sentinelle UI](assets/web_screenshot.png)
 
