@@ -22,8 +22,15 @@ Use it when you want a quick, transparent answer to:
 
 ## 🎬 Demo Video
 
-Watch a short walkthrough of Sentinelle in action:
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Ggc8ZP8gDks">
+    <img src="https://img.youtube.com/vi/Ggc8ZP8gDks/maxresdefault.jpg" 
+         width="80%" 
+         alt="Sentinelle Demo Video">
+  </a>
+</p>
 
+Click the image above to watch the full demo on YouTube.
 👉 https://www.youtube.com/watch?v=Ggc8ZP8gDks
 
 This demo shows:
