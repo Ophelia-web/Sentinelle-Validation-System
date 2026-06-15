@@ -108,6 +108,7 @@ Sentinelle includes a local web interface for interactive validation diagnostics
 <p align="center">
   <img src="assets/web_dashboard.png" alt="Sentinelle local web dashboard" width="90%">
 </p>
+
 For the full workflow, including validation guidance, CV strategy comparison, report preview, and artifact downloads, see the demo video above.
 
 The web app runs on your own machine. It does not require a hosted service,
