@@ -20,6 +20,19 @@ Use it when you want a quick, transparent answer to:
 - Does random KFold look overly optimistic compared with grouped or time-aware validation?
 - What split code should I start from?
 
+## 🎬 Demo Video
+
+Watch a short walkthrough of Sentinelle in action:
+
+👉 https://www.youtube.com/watch?v=Ggc8ZP8gDks
+
+This demo shows:
+- Uploading a dataset
+- Detecting panel / time / group structure
+- Comparing CV strategies
+- Interpreting leakage risks
+- Exporting validation artifacts
+
 ## Quickstart
 
 Install minimal dependencies:
