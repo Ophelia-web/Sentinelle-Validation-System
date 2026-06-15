@@ -105,6 +105,12 @@ artifacts/validation_design_demo_v2_n3/cv_benchmark_results.csv
 
 Sentinelle includes a local web interface for interactive validation diagnostics.
 
+## 🖥️ Web Interface
+
+Below is the Sentinelle validation dashboard in action:
+
+![Sentinelle UI](assets/web_screenshot.png)
+
 The web app runs on your own machine. It does not require a hosted service,
 external API, or cloud deployment. Users can upload a CSV training table, select
 a target column, detect time/group/panel structure, compare validation
